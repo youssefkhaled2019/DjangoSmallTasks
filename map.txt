@@ -1,0 +1,11 @@
+---------------[0]------------------
+Initial commit   add=30/5/2024
+---------------[1]------------------
+main
+    add env
+    add python + django 
+    create main project + app_1 
+    connection between main + app  
+    do  makemigrations +  migrate + createsuperuser
+    add .bat file 
+    
